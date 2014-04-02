@@ -1,0 +1,14 @@
+{
+  "name": "cnf",
+  "version": "0.0.1",
+  "description": "Easy configuration for node apps",
+  "keywords": [],
+  "author": "Roman Kalyakin <roman@kalyakin.com>",
+  "repository": { "type": "git", "url": "git://github.com/theorm/cnf.git" },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "main": "index"
+}
