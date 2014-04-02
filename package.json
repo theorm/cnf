@@ -2,7 +2,11 @@
   "name": "cnf",
   "version": "0.0.1",
   "description": "Easy configuration for node apps",
-  "keywords": [],
+  "keywords": [
+    "configuration",
+    "env",
+    "module"
+  ],
   "author": "Roman Kalyakin <roman@kalyakin.com>",
   "repository": { "type": "git", "url": "git://github.com/theorm/cnf.git" },
   "dependencies": {},
